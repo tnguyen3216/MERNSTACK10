@@ -1,0 +1,1 @@
+alert("closures, hoisting, objects, prototype, functions, call, apply, bind")
